@@ -6,7 +6,9 @@ import Parent from "./components/DisplayImage/Parent";
 import ParentProducts from "./components/Products/ParentProducts";
 import ParentStudent from "./components/Students/ParentStudent";
 import EmployeeDetails from "./components/EmployeeDetails/EmployeeDetails";
-
+import ParentGreeting from "./components/Greeting/ParentGreeting";
+import ParentUser from "./components/UserProfile/ParentUser";
+import ParentGadgets from "./components/Gadgets/ParentGadgets";
 function App() {
   return (
     <div className="App">
@@ -17,6 +19,9 @@ function App() {
       <ParentProducts/>
       <ParentStudent/>
       <EmployeeDetails/>
+      <ParentGreeting/>
+      <ParentUser/>
+      <ParentGadgets/>
     </div>
   );
 }
