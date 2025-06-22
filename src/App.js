@@ -4,6 +4,8 @@ import CustomStyles from "./components/Button/CustomStyles";
 import ParentStationery from "./components/Stationary/ParentStationery";
 import Parent from "./components/DisplayImage/Parent";
 import ParentProducts from "./components/Products/ParentProducts";
+import ParentStudent from "./components/Students/ParentStudent";
+import EmployeeDetails from "./components/EmployeeDetails/EmployeeDetails";
 
 function App() {
   return (
@@ -13,6 +15,8 @@ function App() {
       <ParentStationery/>
       <Parent/>
       <ParentProducts/>
+      <ParentStudent/>
+      <EmployeeDetails/>
     </div>
   );
 }
