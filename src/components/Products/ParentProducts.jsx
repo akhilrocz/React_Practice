@@ -1,8 +1,20 @@
 import React from 'react'
+import Products from './Products'
+
+
+ const products = [
+ { name: 'Perk', quantity: 10, sales: 7 },
+ { name: 'Pepsi', quantity: 10, sales: 20 },
+ { name: 'Coke', quantity: 18, sales: 50 },
+ { name: 'Maggi', quantity: 41, sales: 22 },
+ { name: '5Star', quantity: 7, sales: 9 },
+ ]
 
 const ParentProducts = () => {
   return (
-    <div>ParentProducts</div>
+    <div>
+        <Products products={products}/>
+    </div>
   )
 }
 
