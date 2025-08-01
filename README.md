@@ -5,6 +5,12 @@
 
 ![Forks](https://img.shields.io/github/forks/akhilrocz/React_Practice?style=social)
 
+![Issues](https://img.shields.io/github/issues/akhilrocz/React_Practice)
+
+![License](https://img.shields.io/github/license/akhilrocz/React_Practice)
+
+![Top Language](https://img.shields.io/github/languages/top/akhilrocz/React_Practice)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
