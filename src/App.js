@@ -27,6 +27,8 @@ import Box from "./components/Box/Box";
 function App() {
   return (
     <div className="App">
+      <Counter/>
+      <ToggleRender/>
       <Person />
       <CustomStyles/>
       <ParentStationery/>
@@ -44,8 +46,7 @@ function App() {
       <ParentTodo/>
       <ToggleText/>
       <AddItem/>
-      <ToggleRender/>
-      <Counter/>
+      {/* <ToggleRender/> */}
       <CityList/>
       <TodoApp/>
       <NameForm/>
