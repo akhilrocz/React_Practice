@@ -3,6 +3,8 @@
 
 ![Stars](https://img.shields.io/github/stars/akhilrocz/React_Practice?style=social)
 
+[Forks](https://img.shields.io/github/forks/akhilrocz/React_Practice?style=social)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
