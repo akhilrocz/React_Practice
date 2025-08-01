@@ -24,6 +24,7 @@ import NameForm from "./components/NameForm/NameForm"
 import Logger from "./components/Logger/Logger";
 import EmailForm from "./components/EmailForm/EmailForm"
 import Box from "./components/Box/Box";
+import DarkModeToggle from "./components/DarkModeToggle/DarkModeToggle";
 function App() {
   return (
     <div className="App">
@@ -53,6 +54,7 @@ function App() {
       <Logger/>
       <EmailForm/>
       <Box/>
+      <DarkModeToggle/>
     </div>
   );
 }
